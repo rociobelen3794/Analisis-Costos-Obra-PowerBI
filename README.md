@@ -33,3 +33,9 @@ El dashboard incluye:
 
 - `AnalisisCostos_ViviendaGuardaparques_v01.pbix` → archivo del dashboard en Power BI
 - `Dashboard_AnalisisCostos.pdf` → versión exportada del dashboard
+
+## Vista del Dashboard
+
+![Dashboard](dashboard_ejecutivo.png)
+![Dashboard](dashboard_análisis_obra.png)
+![Dashboard](dashboard_pareto.png)
